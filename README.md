@@ -14,3 +14,6 @@ Employees are measured on total value of sales ($).
 4. Setting custom colors, fonts, font sizes for all the different variables in Tableau
 
 To see the analysis: https://public.tableau.com/app/profile/rucha.khopkar/viz/AnnualBonusAnalysis_17007675233760/AnnualBonusAnalysis
+
+Analysis Results:
+![alt text](https://github.com/ruchakhopkar/AnnualBonusAnalysis/blob/main/Sheet%201.png)
