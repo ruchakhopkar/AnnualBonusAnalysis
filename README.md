@@ -12,3 +12,5 @@ Employees are measured on total value of sales ($).
 2. The 2 main groups of fields in Tableau: Dimensions(independent variables) and measures(dependent variables)
 3. How to add calculated fields in Tableau
 4. Setting custom colors, fonts, font sizes for all the different variables in Tableau
+
+To see the analysis: https://public.tableau.com/app/profile/rucha.khopkar/viz/AnnualBonusAnalysis_17007675233760/AnnualBonusAnalysis
